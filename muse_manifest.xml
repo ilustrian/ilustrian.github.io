@@ -1,0 +1,140 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.ilustrian.com" resolutions="1x" timestamp="1626116453854">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="marcas.css" crc="58653944" ref="marcas"/>
+    <file name="index.css" crc="3786223721" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:marcas"/>
+    <file name="museutils.js" crc="163421577" ref="index:marcas"/>
+    <file name="whatinput.js" crc="86476730" ref="index:marcas"/>
+    <file name="museconfig.js" crc="168988563" ref="index:marcas"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:marcas"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:marcas"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:marcas"/>
+    <file name="require.js" crc="244322403" ref="index:marcas"/>
+    <file name="webpro.js" crc="3848665353" ref="marcas"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="marcas"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="marcas"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="marcas"/>
+    <file name="touchswipe.js" crc="404375771" ref="marcas"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4190737659" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:marcas"/>
+    <file name="u254-4.png" crc="4293430109" ref="index"/>
+    <file name="u321-4.png" crc="170618658" ref="index"/>
+    <file name="u292-4.png" crc="4268270284" ref="index"/>
+    <file name="icono de menu_mesa de trabajo 1.png" crc="396994743" seo="true" ref="index:marcas"/>
+    <file name="lgo.png" crc="4027481652" seo="true" ref="index"/>
+    <file name="u417-4.png" crc="3925401189" ref="index"/>
+    <file name="u410-4.png" crc="4013297488" ref="index"/>
+    <file name="u471-4.png" crc="510855599" ref="index"/>
+    <file name="portafolio.jpg" crc="472822138" seo="true" ref="index"/>
+    <file name="u491.png" crc="4171381609" ref="index"/>
+    <file name="u491-r.png" crc="4171381609" ref="index"/>
+    <file name="sin título-2.png" crc="3793011663" seo="true" ref="index"/>
+    <file name="u525-4.png" crc="98582942" ref="index"/>
+    <file name="u533-4.png" crc="4019941481" ref="index"/>
+    <file name="menu_mesa de trabajo 1-u958.png" crc="44752925" ref="marcas"/>
+    <file name="menux_mesa de trabajo 1-u958-a.png" crc="4212113112" ref="marcas"/>
+    <file name="u1038-4.png" crc="48878918" ref="marcas"/>
+    <file name="u1214-4.png" crc="4015158503" ref="marcas"/>
+    <file name="u1158-4.png" crc="60360152" ref="marcas"/>
+    <file name="u1101-4.png" crc="130210437" ref="marcas"/>
+    <file name="u8424-4.png" crc="91659415" ref="marcas"/>
+    <file name="marca1_mesa de trabajo 1.jpg" crc="31684975" seo="true" ref="marcas"/>
+    <file name="marca2_mesa de trabajo 1.jpg" crc="3760673539" seo="true" ref="marcas"/>
+    <file name="marca3_mesa de trabajo 1.jpg" crc="169701635" seo="true" ref="marcas"/>
+    <file name="marca5_mesa de trabajo 1.jpg" crc="451713399" seo="true" ref="marcas"/>
+    <file name="marca6_mesa de trabajo 1.jpg" crc="3816637471" seo="true" ref="marcas"/>
+    <file name="marca7_mesa de trabajo 1.jpg" crc="3779640851" seo="true" ref="marcas"/>
+    <file name="marca1_mesa de trabajo 1250x250.jpg" crc="4053601599" seo="true" ref="marcas"/>
+    <file name="marca2_mesa de trabajo 1250x250.jpg" crc="4251554314" seo="true" ref="marcas"/>
+    <file name="marca3_mesa de trabajo 1250x250.jpg" crc="527038467" seo="true" ref="marcas"/>
+    <file name="marca5_mesa de trabajo 1250x250.jpg" crc="4031542081" seo="true" ref="marcas"/>
+    <file name="marca6_mesa de trabajo 1250x250.jpg" crc="3760634082" seo="true" ref="marcas"/>
+    <file name="marca7_mesa de trabajo 1250x250.jpg" crc="4282814600" seo="true" ref="marcas"/>
+    <file name="loading.gif" crc="3815509949" ref="marcas"/>
+    <file name="u2958-4.png" crc="49918241" ref="marcas"/>
+    <file name="indentidad petti sun playeras.jpg" crc="4230258368" seo="true" ref="marcas"/>
+    <file name="fachada.png" crc="3875317304" seo="true" ref="marcas"/>
+    <file name="dentidad 7 venadps.jpg" crc="4092517554" seo="true" ref="marcas"/>
+    <file name="gorra.jpg" crc="4252686379" seo="true" ref="marcas"/>
+    <file name="7venados2.jpg" crc="416100427" seo="true" ref="marcas"/>
+    <file name="7venados1.jpg" crc="181762174" seo="true" ref="marcas"/>
+    <file name="7venados3.jpg" crc="290144180" seo="true" ref="marcas"/>
+    <file name="7venados5.jpg" crc="3788637346" seo="true" ref="marcas"/>
+    <file name="7venados4.jpg" crc="4028738424" seo="true" ref="marcas"/>
+    <file name="indentidad petti sun final.jpg" crc="75450989" seo="true" ref="marcas"/>
+    <file name="ide- fachada.jpg" crc="184621101" seo="true" ref="marcas"/>
+    <file name="papeleria el marino mia_mesa de trabajo 1 copia 2.jpg" crc="196670065" seo="true" ref="marcas"/>
+    <file name="mercha.jpg" crc="264642251" seo="true" ref="marcas"/>
+    <file name="autos.jpg" crc="526585628" seo="true" ref="marcas"/>
+    <file name="ide- señal 2.jpg" crc="44496309" seo="true" ref="marcas"/>
+    <file name="ide - señal 3.jpg" crc="524111708" seo="true" ref="marcas"/>
+    <file name="ide- señal 4.jpg" crc="4150303634" seo="true" ref="marcas"/>
+    <file name="ide- señal.jpg" crc="4068542569" seo="true" ref="marcas"/>
+    <file name="indentidad petti sun playeras250x233.jpg" crc="97891769" seo="true" ref="marcas"/>
+    <file name="u3133.png" crc="4129476534" ref="marcas"/>
+    <file name="u3133-r.png" crc="363551873" ref="marcas"/>
+    <file name="dentidad 7 venadps250x224.jpg" crc="279814390" seo="true" ref="marcas"/>
+    <file name="gorra250x236.jpg" crc="89762278" seo="true" ref="marcas"/>
+    <file name="7venados2250x250.jpg" crc="205938868" seo="true" ref="marcas"/>
+    <file name="7venados1250x250.jpg" crc="506357636" seo="true" ref="marcas"/>
+    <file name="7venados3250x250.jpg" crc="188976316" seo="true" ref="marcas"/>
+    <file name="7venados5250x250.jpg" crc="4219877349" seo="true" ref="marcas"/>
+    <file name="7venados4250x250.jpg" crc="308209392" seo="true" ref="marcas"/>
+    <file name="indentidad petti sun final-crop-u4110.jpg" crc="159824427" ref="marcas"/>
+    <file name="ide- fachada301x200.jpg" crc="4045482670" seo="true" ref="marcas"/>
+    <file name="papeleria el marino mia_mesa de trabajo 1 copia 2310x200.jpg" crc="442269400" seo="true" ref="marcas"/>
+    <file name="mercha310x200.jpg" crc="384932041" seo="true" ref="marcas"/>
+    <file name="autos249x237.jpg" crc="4159161408" seo="true" ref="marcas"/>
+    <file name="ide- señal 2-crop-u5108.jpg" crc="307776821" ref="marcas"/>
+    <file name="ide - señal 3-crop-u5390.jpg" crc="3879381224" ref="marcas"/>
+    <file name="ide- señal 4-crop-u5128.jpg" crc="343183809" ref="marcas"/>
+    <file name="ide- señal-crop-u5148.jpg" crc="249856246" ref="marcas"/>
+    <file name="u4851-4.png" crc="3970673762" ref="marcas"/>
+    <file name="cartel distorcion.jpg" crc="3950316504" seo="true" ref="marcas"/>
+    <file name="cartel simetria.jpg" crc="3878913378" seo="true" ref="marcas"/>
+    <file name="la llegada.jpg" crc="3946041942" seo="true" ref="marcas"/>
+    <file name="poster endgame.jpg" crc="3976113889" seo="true" ref="marcas"/>
+    <file name="poster súper héroes - irazoqui cristian.jpg" crc="4188597077" seo="true" ref="marcas"/>
+    <file name="tarea 7 - irazoqui aranda cristian.jpg" crc="4237366178" seo="true" ref="marcas"/>
+    <file name="cartel distorcion250x387.jpg" crc="3811786426" seo="true" ref="marcas"/>
+    <file name="cartel simetria250x387.jpg" crc="458262906" seo="true" ref="marcas"/>
+    <file name="la llegada273x363.jpg" crc="183078609" seo="true" ref="marcas"/>
+    <file name="poster endgame250x387.jpg" crc="3972713405" seo="true" ref="marcas"/>
+    <file name="poster súper héroes - irazoqui cristian250x387.jpg" crc="4010040317" seo="true" ref="marcas"/>
+    <file name="tarea 7 - irazoqui aranda cristian254x364.jpg" crc="4089267104" seo="true" ref="marcas"/>
+    <file name="u7007-4.png" crc="4102086143" ref="marcas"/>
+    <file name="stan.jpg" crc="3871534502" seo="true" ref="marcas"/>
+    <file name="witch.jpg" crc="258909489" seo="true" ref="marcas"/>
+    <file name="autretrato.jpg" crc="419364855" seo="true" ref="marcas"/>
+    <file name="de campo.jpg" crc="167009563" seo="true" ref="marcas"/>
+    <file name="komi.jpg" crc="110633344" seo="true" ref="marcas"/>
+    <file name="lovegood2.jpg" crc="3937232152" seo="true" ref="marcas"/>
+    <file name="perona.jpg" crc="3946301703" seo="true" ref="marcas"/>
+    <file name="smile color final 2.png" crc="327405641" seo="true" ref="marcas"/>
+    <file name="twoguns.jpg" crc="277350702" seo="true" ref="marcas"/>
+    <file name="vato loco2.png" crc="4064902994" seo="true" ref="marcas"/>
+    <file name="verano nami.jpg" crc="505385827" seo="true" ref="marcas"/>
+    <file name="yakult.jpg" crc="192195146" seo="true" ref="marcas"/>
+    <file name="stan-crop-u9512.jpg" crc="268916549" ref="marcas"/>
+    <file name="witch-crop-u9646.jpg" crc="311548995" ref="marcas"/>
+    <file name="autretrato-crop-u9626.jpg" crc="259759086" ref="marcas"/>
+    <file name="de campo-crop-u9412.jpg" crc="109735383" ref="marcas"/>
+    <file name="komi-crop-u9432.jpg" crc="122729304" ref="marcas"/>
+    <file name="lovegood2-crop-u9452.jpg" crc="3991181346" ref="marcas"/>
+    <file name="perona-crop-u9472.jpg" crc="4274289333" ref="marcas"/>
+    <file name="u9492.png" crc="3935502351" ref="marcas"/>
+    <file name="u9492-r.png" crc="15754140" ref="marcas"/>
+    <file name="twoguns-crop-u9532.jpg" crc="3778999008" ref="marcas"/>
+    <file name="u9552.png" crc="242928448" ref="marcas"/>
+    <file name="u9552-r.png" crc="4045540170" ref="marcas"/>
+    <file name="verano nami250x250.jpg" crc="67540707" seo="true" ref="marcas"/>
+    <file name="yakult250x250.jpg" crc="247025338" seo="true" ref="marcas"/>
+  </folder>
+  <file name="index.html" crc="420600983" seo="true" mt="1626046148309" redirect="true"/>
+  <file name="marcas.html" crc="444580696" seo="true" mt="1626069896511" redirect="true"/>
+</manifest>
